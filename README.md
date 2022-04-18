@@ -53,6 +53,6 @@ __Creator:__ BestDimka#3309
 **Rapid Fire** (Makes the gun equipped shoot all the ammo at once --Slightly Buggy)
 
 # Download
-https://www.file.io/lC0U/download/HFFW9yWkdYr6
+https://www.mediafire.com/file/y1h7pi84ruunm74/Darkezz-Client-1.0.0.zip/file
 
 All of this is free so please support me!
